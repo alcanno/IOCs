@@ -1,4 +1,7 @@
 *** Introduction ***
+
+MUSTANG PANDA:
+
 In July 2023, Check Point disclosed a campaign called SMUGX, which focused on European countries and was attributed to the advanced persistent threat (APT) group Earth Preta (also known as Mustang Panda and Bronze President). In the same year, we obtained a phishing email targeting the Taiwanese government that contained a piece of customized PlugX malware — the same one used in the SMUGX campaign. As most previous discussions from other researchers focus on the European attacks, we would instead like to shed light on the Asian side of the campaign. After months of investigation, we discovered more SMUGX campaign-related samples targeting not only Taiwan, but also Vietnam, Malaysia, and other Asian countries in 2022 and 2023.
 
 This kind of customized PlugX malware has been active since 2022, with related research being published by Secureworks, Recorded Future, Check Point, and Lab52. During analysis, we observed that the piece of customized PlugX malware is dissimilar to the general type of the PlugX malware that contains a completed backdoor command module, and that the former is only used for downloading the latter. Due to its different functionality, we decided to give this piece of customized PlugX malware a new name: DOPLUGS.
