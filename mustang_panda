@@ -7,7 +7,7 @@ Upon investigation, we found that the DOPLUGS malware uses the KillSomeOne modul
 In this blog entry, we focus on the Earth Preta campaign, providing an analysis of the DOPLUGS malware variant that the group used, including backdoor command behavior, integration with the KillSomeOne module, and its evolution.
 
 Mustang Panda IOC IP Addresses: 149.104.12.64,45.131.179.179,103.192.226.46,45.83.236.105,199.232.214.172
-Mustang Panda IOC Domains: electrictulsa.com, ivibers.com, meetviberapi.com, download.windowsupdate.com
+Mustang Panda IOC Domains: electrictulsa.com, ivibers.com, meetviberapi.com, windowsupdate.com
 Mustang Panda IOC Hashes:3fa7eaa4697cfcf71d0bd5aa9d2dbec495d7eac43bdfcfbef07a306635e4973b, 17225c9e46f809556616d9e09d29fd7c13ca90d25ae21e00cc9ad7857ee66b82, d0ca6917c042e417da5996efa49afca6cb15f09e3b0b41cbc94aab65a409e9dc, d64afd9799d8de3f39a4ce99584fa67a615a667945532cfa3f702adbe27724c4
 Mustang Panda IOC URL:https://estmongolia.com/Үер усны сэрэмжлүүлэг|https://getfiledown.com/utdkt|https://getfiledown.com/vgbskgyu|https://getfilefox.com/enmjgwvt
 
